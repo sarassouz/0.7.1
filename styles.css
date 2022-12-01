@@ -1,0 +1,45 @@
+nav {
+  position: fixed;
+  background-color: black;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+svg{
+  width: 20px;
+  height: 20px;
+}
+
+.messenger {
+  position: absolute;
+  right: 90px;
+  margin: 2px;
+  background-color: white;
+  border: 0;
+  border-radius: 20px;
+}
+
+.sino {
+  position: absolute;
+  right: 50px;
+  margin: 2px;
+  background-color: white;
+  border: 0;
+  border-radius: 20px;
+}
+
+.profile {
+  position: absolute;
+  right: 10px;
+  margin: 2px;
+  background-color: white;
+  border: 0;
+  border-radius: 20px;
+}
+
+.pesquisa {
+  width: 50%;
+  border-radius: 20px;
+  text-align: start;
+}
